@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tours_app/static/css/main.e64ab053.chunk.css",
+    "main.js": "/tours_app/static/js/main.1014c85f.chunk.js",
+    "main.js.map": "/tours_app/static/js/main.1014c85f.chunk.js.map",
+    "runtime-main.js": "/tours_app/static/js/runtime-main.004e52e0.js",
+    "runtime-main.js.map": "/tours_app/static/js/runtime-main.004e52e0.js.map",
+    "static/js/2.bdbc782b.chunk.js": "/tours_app/static/js/2.bdbc782b.chunk.js",
+    "static/js/2.bdbc782b.chunk.js.map": "/tours_app/static/js/2.bdbc782b.chunk.js.map",
+    "index.html": "/tours_app/index.html",
+    "precache-manifest.1600ac4b0ba3324acedaf99f939a6779.js": "/tours_app/precache-manifest.1600ac4b0ba3324acedaf99f939a6779.js",
+    "service-worker.js": "/tours_app/service-worker.js",
+    "static/css/main.e64ab053.chunk.css.map": "/tours_app/static/css/main.e64ab053.chunk.css.map",
+    "static/js/2.bdbc782b.chunk.js.LICENSE.txt": "/tours_app/static/js/2.bdbc782b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.004e52e0.js",
+    "static/js/2.bdbc782b.chunk.js",
+    "static/css/main.e64ab053.chunk.css",
+    "static/js/main.1014c85f.chunk.js"
+  ]
+}
